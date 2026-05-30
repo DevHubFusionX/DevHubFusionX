@@ -1,24 +1,24 @@
-👋 Frank | Full-Stack Developer
-NIIT-trained Computer Scientist specializing in modern web development. Passionate about building clean, scalable applications.
+# Franklin Anyanwu — Full-Stack Developer (Nigeria)
 
-🚀 Featured Project
-DevFind – Developer search platform
-🔗 Live Demo
+I'm a fullstack web developer based in Lagos, Nigeria, specializing in building 
+fast, scalable web applications for startups, agencies, and product teams across 
+Africa and globally.
 
-🛠️ Tech Stack
-Frontend: React, Next.js, Tailwind CSS
-Backend: Node.js, Express, MongoDB
-Tools: Git, AWS, Docker
+## What I Build
+- Web apps & SaaS platforms (React, Next.js, Node.js)
+- Logistics & delivery platform frontends and backends
+- Agency websites with performance optimization
+- REST APIs with Express + MongoDB
 
-🎯 Currently
-Seeking remote opportunities in:
-• Full-Stack Development
-• Frontend Engineering
-• Software Engineering roles
+## Tech Stack
+**Frontend:** React, Next.js, Tailwind CSS, JavaScript  
+**Backend:** Node.js, Express, PHP, MySQL, MongoDB  
+**Tools:** Git, AWS, Docker  
 
-📬 Connect
-Email: devhubfusionx@gmail.com
-Portfolio:[link](https://devhubfusionx.github.io/DevHubFusion-X/)
-GitHub: @devhubfusionx
+## Hire Me
+I'm available for freelance projects, contract work, and remote full-time roles.  
+If you need a web developer in Nigeria or remotely — let's talk.
 
-Open to collaborations & new opportunities!
+📧 devhubfusionx@gmail.com  
+🌐 [DevHubFusion-X/](https://devhubfusionx.github.io/DevHubFusion-X/)  
+🐦 [@DevHubFusionX](https://x.com/DevHubFusionX)
